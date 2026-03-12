@@ -1,1 +1,4 @@
 /aws-terraform-ec2-monitoring/.terraform
+/aws-terraform-ec2-monitoring/terraform.tfstate.backup
+/aws-terraform-ec2-monitoring/terraform.tfstate
+/aws-terraform-ec2-monitoring/.terraform.lock.hcl
