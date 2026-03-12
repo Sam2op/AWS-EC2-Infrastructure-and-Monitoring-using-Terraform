@@ -224,3 +224,7 @@ Possible improvements include:
 
 GitHub:  
 https://github.com/Sam2op
+Gmail: 
+samilesnarnadaf7@gmail.com
+LinkedIn:
+https://www.linkedin.com/in/mohammed-sami-nadaf-0b81a91b8
